@@ -4,3 +4,5 @@ I built two models to detect diabetic retinograpghy disease, utilized two over-s
 I used class weights with RESNET50 and I utilized SMOTE with EfficientNetB0, EfficientNetB0 performed better.
 The evaluation metric are: Overall AUC, AUC's in Female and Male groups respectively.
 Dataset- ODIR-5K
+
+Diabetic Retinopathy is a leading cause of blindness, and early detection can significantly improve patient outcomes. This study aims to automate the detection process through machine learning models, reducing the dependency on manual screening.
