@@ -1,4 +1,4 @@
-# Diabetic-Retinography-Detection
+# Diabetic-Retinopathy-Detection
 Detecting diabetic retinography disease from the two-dimensional color fundus images using ResNet50 and EfficientNetB0 Models
 I built two models to detect diabetic retinograpghy disease, utilized two over-sampling techniques; class weights and SMOTE.
 I used class weights with RESNET50 and I utilized SMOTE with EfficientNetB0, EfficientNetB0 performed better.
